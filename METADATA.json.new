@@ -1,0 +1,51 @@
+{
+  "name": "Merienda",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 21324,
+  "fonts": [
+    {
+      "name": "Merienda",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Merienda-Regular-TTF.ttf",
+      "postScriptName": "Merienda-Regular_0_wt",
+      "fullName": "Merienda",
+      "copyright": "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'"
+    },
+    {
+      "name": "Merienda",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Merienda-Bold-TTF.ttf",
+      "postScriptName": "Merienda-Bold",
+      "fullName": "Merienda Bold",
+      "copyright": "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'"
+    },
+    {
+      "name": "Merienda",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Merienda-Bold.ttf",
+      "postScriptName": "Merienda-Bold",
+      "fullName": "Merienda Bold",
+      "copyright": "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'"
+    },
+    {
+      "name": "Merienda",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Merienda-Regular.ttf",
+      "postScriptName": "Merienda-Regular_0_wt",
+      "fullName": "Merienda",
+      "copyright": "Copyright (c) 2011-2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Merienda'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}
